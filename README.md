@@ -7,10 +7,10 @@ This tool was created by TheNooB
 
     > apt-get upgrade; apt-get upgrate
     > apt install git; apt install python3
-    > gitclone https://github.com/TheNooB4/Revimage
+    > git clone https://github.com/TheNooB4/Revimage
     > cd Revimage
     > pip install -r requirements.tx
-    > python revimg.py
+    > python3 revimg.py
 
 After entering your image file path, enter it to make the tool start.
 Results will be saved in a new directory namely FBMIKI.
